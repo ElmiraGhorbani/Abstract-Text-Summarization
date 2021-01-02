@@ -31,5 +31,5 @@ The [pn-summary dataset](https://github.com/hooshvare/pn-summary) can be used fo
 
 ### To Do
 
-- [] Collab demo
+- [ ] Collab demo
 - [ ] fine-tune on persian dataset
