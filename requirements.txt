@@ -1,0 +1,5 @@
+numpy
+sentencepiece
+tfds-nightly
+tensorflow==2.2.0
+click
